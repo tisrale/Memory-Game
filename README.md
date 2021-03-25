@@ -47,7 +47,7 @@ Here's a walkthrough of implemented user stories:
 [YOUR ANSWER HERE]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[I had a challenge while recording the gif using LiceCap, so I used zoom recording to upload the video but couldn't show up in the Readme as you can see. I will work on fixing that.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
